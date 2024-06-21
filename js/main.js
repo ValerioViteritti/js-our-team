@@ -9,7 +9,6 @@
 // BONUS 2:
 // Organizzare i singoli membri in card/schede
 
-
 // Ogni membro è caratterizzato dalle seguenti informazioni: nome, ruolo e foto.
 // MILESTONE 0:
 // Creare l’array di oggetti con le informazioni fornite.
